@@ -1,21 +1,13 @@
 {
-  "name": "onto-catalog",
+  "name": "ohmyphds",
   "version": "1.0.0",
-  "description": "Semi-automatic generation of semantic description for sensing devices",
+  "description": "..that I finally failed",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/semiotproject/onto-catalog.git"
-  },
-  "author": "SemIoT Project",
+  "author": "soylent-grin",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/semiotproject/onto-catalog/issues"
-  },
-  "homepage": "https://github.com/semiotproject/onto-catalog",
   "devDependencies": {
     "babelify": "^6.1.2",
     "grunt": "^0.4.5",

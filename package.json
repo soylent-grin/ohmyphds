@@ -1,0 +1,37 @@
+{
+  "name": "onto-catalog",
+  "version": "1.0.0",
+  "description": "Semi-automatic generation of semantic description for sensing devices",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiotproject/onto-catalog.git"
+  },
+  "author": "SemIoT Project",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semiotproject/onto-catalog/issues"
+  },
+  "homepage": "https://github.com/semiotproject/onto-catalog",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-http-server": "^1.4.0",
+    "grunt-notify": "^0.4.1",
+    "load-grunt-tasks": "^3.2.0",
+    "react-router": "^0.13.3",
+    "yargs": "^3.15.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "react": "^0.13.3",
+    "react-d3-components": "^0.4.8"
+  }
+}

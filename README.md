@@ -1,3 +1,5 @@
+External CDN deps: `bootstrap.css`, `jquery.js`
+
 ```
 npm i -g grunt-cli
 
